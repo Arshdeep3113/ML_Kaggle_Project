@@ -7,4 +7,5 @@ The objective was to build and optimize a multi-class classification model to id
 The competition was hosted on Kaggle and evaluated using accuracy score, allowing teams to benchmark performance in a competitive academic setting.
 
 Final ranking: 7th out of 44 teams
+
 Final accuracy: 0.835
